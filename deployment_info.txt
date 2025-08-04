@@ -1,0 +1,9 @@
+Deployment Name: FinanceAdvices  
+Deployment Status: Online  
+Endpoint (Public):  
+https://us-south.ml.cloud.ibm.com/ml/v4/deployments/9e43ca7e-511e-4ab3-82e2-91584daa85d8/ai_service
+
+Authentication: IAM token  
+Created on IBM Watsonx Agent Lab  
+Project: Digital_Finance  
+Space: Finance Adviser  
